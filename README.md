@@ -32,17 +32,18 @@
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </div>
+  <br>
   
 ## 🎓 Educations 🎓
 BoostCampAITech (Naver Connect) 2021.08 ~ 2021.12 <br>
 SSAFY (Samsung) 2022.07 ~ <br>
   <br>
-  <br>
+
 ## 📝 Certifications 📝
   정보처리기사 - 2020.12.31 <br>
   빅데이터분석기사 - 2022.07.15<br>
   <br>
-  <br>
+
   
 ## 👊🏼
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=singy123)](https://solved.ac/singy123/)
