@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=Hello%20World%20!&fontSize=50&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&section=header&text=Hello%20World%20!&fontSize=50&animation=scaleIn)
   
   <div align="right">
   
@@ -16,7 +16,7 @@
 
 
   
-## 🔨 Tech Stack 🔨
+## 💻 TechStack 💻
 
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
@@ -41,20 +41,23 @@
 </div>
   
 ## 🎓 Educations 🎓
+yonsei university - wonju 
 BoostCampAITech (Naver Connect) 2021.08 ~ 2021.12 <br>
 SSAFY (Samsung) 2022.07 ~ <br>
   <br>
   <br>
 ## 📝 Certifications 📝
-  정보처리기사 2020.12.31 <br>
-  빅데이터분석기사 2022.07.15<br>
+  정보처리기사 - 2020.12.31 <br>
+  빅데이터분석기사 - 2022.07.15<br>
   <br>
   <br>
   
 ## 👊🏼
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=singy123)](https://solved.ac/singy123/)
+  <img src="http://mazandi.herokuapp.com/api?handle=singy123&theme=warm"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JODONG2&show_icons=true&theme=radical)
-  
+
+
 </div>
 <!--
 **JODONG2/JODONG2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
