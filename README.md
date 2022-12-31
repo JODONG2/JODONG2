@@ -8,13 +8,6 @@
   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjodong2&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)
   
 </div>
-
-<div>
-  <img src="https://img.shields.io/badge/ail-6DB33F?style=flat-square&logo=gmail&logoColor=white&link=mailto:whgusehd96@gmail.com"/>
-  <img src="https://img.shields.io/badge/elog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-</div>
-
-
   
 ## 💻 TechStack 💻
 
@@ -41,7 +34,6 @@
 </div>
   
 ## 🎓 Educations 🎓
-yonsei university - wonju 
 BoostCampAITech (Naver Connect) 2021.08 ~ 2021.12 <br>
 SSAFY (Samsung) 2022.07 ~ <br>
   <br>
