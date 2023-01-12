@@ -48,8 +48,7 @@ SSAFY (Samsung) 2022.07 ~ <br>
 ## 👊🏼
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=singy123)](https://solved.ac/singy123/)
   <img src="http://mazandi.herokuapp.com/api?handle=singy123&theme=warm"/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JODONG2&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JODONG2&&show_icons=true&theme=dark)
 
 </div>
 <!--
