@@ -24,14 +24,18 @@
   <img src="https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </div>
 <div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Nginx-6DB33F?style=flat-square&logo=nginx&logoColor=white"/>
+</div>
+<div>
+  <img src="https://img.shields.io/badge/Nginx-6DB33F?style=flat-square&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
 </div>
   <br>
   
